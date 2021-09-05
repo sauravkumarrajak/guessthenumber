@@ -83,6 +83,7 @@ function initGame(){
  */
 function resetResultContent(){
   document.getElementById("result").innerHTML = "";
+  document.getElementById("number-guess").value = " ";
 }
 
 /**
