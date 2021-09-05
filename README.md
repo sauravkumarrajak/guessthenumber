@@ -1,2 +1,3 @@
-# guessthenumber
-Welcome to guess the number game
+# Guess The Number Game 
+# Give  it a try
+
